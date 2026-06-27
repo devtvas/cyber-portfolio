@@ -1,0 +1,12 @@
+{
+    "name": "Tarcísio Valentim — Flutter Developer",
+    "short_name": "devtvas",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0A0E14",
+    "theme_color": "#0A0E14",
+    "description": "Portfólio profissional — Desenvolvedor Mobile Flutter Sênior.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
